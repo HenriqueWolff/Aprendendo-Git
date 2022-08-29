@@ -1,2 +1,1 @@
-Aprendendo Git e GitHub
-teste de alteração
+Olá, esta parte do meu Github é dedicada aos códigos escritos durante a formação front-end da Alura, este repositório serve para mim como um aprendizado de Git e Github.
