@@ -1,3 +1,7 @@
+*{
+  padding: 0px;
+}
+
 header {
   background-color: #bbbbbb;
   padding: 20px 0;
@@ -17,8 +21,8 @@ nav {
 }
 
 nav li {
-  display:inline;
-  margin: 0 0 0 15px;
+  display: flex;
+  margin:  0 0 0 15px;
 }
 
 nav a {
@@ -30,9 +34,9 @@ nav a {
 }
 
 nav a:hover {
-  font-size: 24px;
-	text-decoration: underline;
-	text-shadow: -1px 1px 1px #C78C19;
+  font-weight: inherit;
+  text-decoration: underline;
+  text-shadow: -1px 1px 1px #c78c19;
 }
 
 #banner {
@@ -95,4 +99,8 @@ footer {
   color: white;
   font-size: 13px;
   margin-top: 20px;
+}
+
+.caixa__menu{
+  display: flex;
 }
